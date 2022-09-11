@@ -51,13 +51,6 @@ img {
   color: var(--grayish-blue);
   margin: 15px auto;
 }
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
 
 @media (min-width: 500px) {
   .container {
